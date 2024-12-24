@@ -76,7 +76,6 @@ packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
 pinecone==5.4.2
-pinecone-client==5.0.1
 pinecone-plugin-inference>=2.0.0,<4.0.0
 propcache==0.2.1
 proto-plus==1.25.0
